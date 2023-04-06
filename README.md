@@ -28,12 +28,12 @@ or
 
 **NODE**
 ```
-npm install ERA-name-service
+npm i eranameservice
 ```
 
 **In the Browser**
 ```javascript
-<script src="https://data.era.name/era-name-service_cdn.js"></script>
+<script src="https://www.unpkg.com/eranameservice@1.0.0/index.js"></script>
 ```
 
 
