@@ -48,7 +48,7 @@ const ERAns = new ERAns(web3)
 // You are now ready for .era
 ```
 
-## SETS
+## GETS
 
 **Primary Address (Ethereum Address to Era Name)**
 
