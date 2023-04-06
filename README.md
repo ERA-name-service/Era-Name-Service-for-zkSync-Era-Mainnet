@@ -33,7 +33,7 @@ npm install ERA-name-service
 
 **In the Browser**
 ```javascript
-<script src="https://unpkg.com/eranameservice@1.0.2/index.js"></script>
+<script src="https://data.era.name/era-name-service_cdn.js"></script>
 ```
 
 
