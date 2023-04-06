@@ -1,0 +1,20 @@
+{
+  "name": "ERA-name-service",
+  "version": "1.0.0",
+  "description": ".era Name Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ERA-name-service/Era-Name-Service-for-zkSync-Era-Mainnet.git"
+  },
+  "author": "Era Name Deployer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ERA-name-service/Era-Name-Service-for-zkSync-Era-Mainnet/issues"
+  },
+  "homepage": "https://github.com/ERA-name-service/Era-Name-Service-for-zkSync-Era-Mainnet#readme",
+  "keywords": []
+}
