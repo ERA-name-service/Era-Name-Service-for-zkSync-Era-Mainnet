@@ -106,7 +106,7 @@ ERAns.isTaken("era").then(function(resultTaken){
 
 Get domain name information.
 ```javascript
-ERAns.getData("name","data_name").then(function(result){ {
+ERAns.getData("name","data_name").then(function(result){
     console.log(result)
 });
 ```
